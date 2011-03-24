@@ -1,0 +1,25 @@
+#README - Blackboard Quicklinks Module
+
+---
+
+This tool was developed by Matthew Reidsma in HTML to provide a clean, streamlined access point to library resources at GVSU.
+
+INSTALLATION
+
+Copy the HTML from this guide into a Blackboard Content area using the HTML edit tool.
+
+More questions? Feel free to contact Matthew Reidsma on Twitter at @mreidsma or via email at reidsmam@gvsu.edu.
+
+DEMO
+
+You can view a live version of this tool on the MyBB home page.
+
+COPYRIGHT
+
+This tool is copyright 2011 Grand Valley State University Libraries. 
+
+This tool is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This tool is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this tool. If not, see <http://www.gnu.org/licenses/>.
